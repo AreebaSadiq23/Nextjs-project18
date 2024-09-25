@@ -3,6 +3,6 @@ Description: Convert values between different currencies.
 
 Functionalities:
 
-Input for amount and currencies
-Convert and display the result
+Input for amount and currencies<br>
+Convert and display the result<br>
 Use a currency API (e.g., ExchangeRate-API)
