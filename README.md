@@ -1,4 +1,4 @@
-# Next js Day 18: Currency Converter
+#  Currency Converter
 Description: Convert values between different currencies.
 
 Functionalities:
